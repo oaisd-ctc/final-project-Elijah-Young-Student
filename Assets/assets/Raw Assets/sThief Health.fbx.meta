@@ -3,57 +3,7 @@ guid: 87103126559aa6143bbe1ff1c679c139
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: 79ff3ae8d4f67b44c9df1eb9bc79efd6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.007
-    second: {fileID: 2100000, guid: b54eebd80528c1d4da2c28dd30bfc02a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.008
-    second: {fileID: 2100000, guid: 8e5f32eb2c7ac064aa2a1545f0874ff4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.012
-    second: {fileID: 2100000, guid: 9263ea41b5e0e71408358aa37b22d13e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.013
-    second: {fileID: 2100000, guid: bc1cb966f1d480f4d8349272e9d00f06, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.014
-    second: {fileID: 2100000, guid: 6ac79bfa3f42a0145a153e72a0f24d5f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: cardboard
-    second: {fileID: 2100000, guid: 8a478a49f0dadc64f83678f93fb26178, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Shadow_Thief_board
-    second: {fileID: 2800000, guid: da9a8758fc59a634bb45fc5d5d4c6f42, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: cardboard_normal
-    second: {fileID: 2800000, guid: 1a3080dd8dcf8bb45abe191c0c8d81c7, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: cardboard_roughness
-    second: {fileID: 2800000, guid: d493b216139c10e46be338b68710d60d, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

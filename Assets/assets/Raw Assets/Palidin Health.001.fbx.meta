@@ -3,62 +3,7 @@ guid: 017c7c195127097419677d61afb03e88
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.006
-    second: {fileID: 2100000, guid: 68ae7016b9768a340afffd458e745c1e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.012
-    second: {fileID: 2100000, guid: 53d42e786abcb3a44adf4dc489a0c847, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.016
-    second: {fileID: 2100000, guid: dad0eb70e31a6214eab73288d678beb4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.019
-    second: {fileID: 2100000, guid: 721ba2d13823dcc47b5f8c3a31245e00, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.022
-    second: {fileID: 2100000, guid: 0e6bd329491719f488838cfda3e9182d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.023
-    second: {fileID: 2100000, guid: 7e0c307ce35600a4eb3f89940d8163d2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.046
-    second: {fileID: 2100000, guid: 2292a2273e88c284cb3a6f7e373c719b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: cardboard
-    second: {fileID: 2100000, guid: 148579d67c49f034586d1c7ab4c6878c, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Paladin_board
-    second: {fileID: 2800000, guid: f0b74250092cf60469b1e465f7a672b5, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: cardboard_normal
-    second: {fileID: 2800000, guid: ada2f90e6bbafe14a8e6cf2ce8476a60, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: cardboard_roughness
-    second: {fileID: 2800000, guid: 3b1af79e1aa7b244295a06fb7682ec6b, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

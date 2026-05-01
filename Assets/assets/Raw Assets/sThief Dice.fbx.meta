@@ -3,27 +3,7 @@ guid: c45aaf7ae5f078a47bd0a7a039a59a27
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.004
-    second: {fileID: 2100000, guid: 6066dc2032eb30c4196ac7bb9f46f858, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.005
-    second: {fileID: 2100000, guid: 6f19fbf30af090a4a86466c80d57b824, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.009
-    second: {fileID: 2100000, guid: 1b730d4c91a236a4899159470b198ada, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Shadow_Thief_dice_1
-    second: {fileID: 2800000, guid: 81c6a90c4d43e854fa397fe7f212ecb5, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

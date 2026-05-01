@@ -7,13 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.026
-    second: {fileID: 2100000, guid: c165ca5b57ac5194d91a245a9803f824, type: 2}
+      name: Material.011
+    second: {fileID: 2100000, guid: 786b712aa2ad51744be7ba2b19641de2, type: 2}
   - first:
-      type: UnityEngine:Texture2D
+      type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Barbarian_dice_2
-    second: {fileID: 2800000, guid: d63e966e318f2dd47bc91038ed141ec4, type: 3}
+      name: Material.026
+    second: {fileID: 2100000, guid: fc513699ba693ab479469e2a90527385, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,37 +3,7 @@ guid: 473a6d42011abe04cbd7fb5ec846804a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.028
-    second: {fileID: 2100000, guid: 37808476a41c4234c88b84094da40a71, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: cardboard.005
-    second: {fileID: 2100000, guid: 94c940fe1bc6c864fb363000fab8dc12, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Paladin_insert
-    second: {fileID: 2800000, guid: 2cec3b6da778bca4eb9d0f2f92e81e0d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: cardboard_albedo
-    second: {fileID: 2800000, guid: 19ba50146c623b74a9b8fdf2828ecf37, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: cardboard_normal
-    second: {fileID: 2800000, guid: 467f2ad4fa44eb9469778591f1b542c0, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: cardboard_roughness
-    second: {fileID: 2800000, guid: 6ac0427948515884ca07e8f23556966d, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
