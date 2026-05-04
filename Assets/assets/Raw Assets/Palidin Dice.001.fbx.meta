@@ -3,7 +3,27 @@ guid: 59390274dfd08d24e8e30f6e512fbeb4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: ffc3c2e044758674897b1b8d1e3520a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: dc0e15462de09924495c3bf08bd4e1b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: 45d60323929b1f947aaf5583c542c5a4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paladin_dice_1
+    second: {fileID: 2800000, guid: 69396a0ed852ab844a47cfbc9ba98a48, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

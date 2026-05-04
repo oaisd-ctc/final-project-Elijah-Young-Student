@@ -29,7 +29,7 @@ public class CPDial : MonoBehaviour
         switch (value)
         {
             case CPValues.Zero:
-                targetRotation = Quaternion.Euler()
+                targetRotation = Quaternion.Euler(0, 0, 0);
                 break;
             case CPValues.One:
                 break;

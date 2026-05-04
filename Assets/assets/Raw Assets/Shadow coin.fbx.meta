@@ -3,7 +3,37 @@ guid: 6dff8bfd6bf94724ba1abf7e08d2f74c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: a30f92a9ab8e3c248b287d32b2abe000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cardboard
+    second: {fileID: 2100000, guid: fc29eb295f0fb5b45aed682b13c7a727, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shadow_Thief_insert
+    second: {fileID: 2800000, guid: e82f0bdda334a57469b5d9aa780d4ec8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cardboard_albedo
+    second: {fileID: 2800000, guid: 327db889f212e414b817d228ff2f31e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cardboard_normal
+    second: {fileID: 2800000, guid: 880c7c9a3f114294a9d10d757a317c10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cardboard_roughness
+    second: {fileID: 2800000, guid: 3d3906a7bd91a454b9d7bceb837d55eb, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

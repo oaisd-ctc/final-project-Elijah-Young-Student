@@ -14,6 +14,26 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: cardboard.001
     second: {fileID: 2100000, guid: 2e49f93538f0dbb4fa7154c801c49f7d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paladin_insert
+    second: {fileID: 2800000, guid: c3b5fda09c42705448b12b5266470bd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cardboard_albedo
+    second: {fileID: 2800000, guid: b350c2b8ef51b4e4e92e7e2397b6558f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cardboard_normal
+    second: {fileID: 2800000, guid: 5c456245e3ed88741a7be7d1541e18ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cardboard_roughness
+    second: {fileID: 2800000, guid: fb5962f8e1fba6646a0345446f7d12e5, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

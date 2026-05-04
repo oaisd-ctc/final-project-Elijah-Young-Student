@@ -17,18 +17,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
+      name: Barbarian_board
+    second: {fileID: 2800000, guid: 18e7fbfadbd33a6408b6f6b2e0d4e18f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
       name: cardboard_albedo
-    second: {fileID: 2800000, guid: 33997ff0ef9013b4d86d71ff1aef8c4c, type: 3}
+    second: {fileID: 2800000, guid: d27e0c3f6204fc046bc2978642bff7fa, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: cardboard_normal
-    second: {fileID: 2800000, guid: 27c3a88339a09df4b94be28bf8c6f51a, type: 3}
+    second: {fileID: 2800000, guid: e9c6c54de9c77c2478dbb36658610987, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: cardboard_roughness
-    second: {fileID: 2800000, guid: 010df31ff2b909d4391be8c70a8033cc, type: 3}
+    second: {fileID: 2800000, guid: bfd057a2f49a0ad43bce8f640662fa01, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
